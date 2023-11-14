@@ -1,0 +1,135 @@
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\Bocharova_Glazki.exe.config
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\Bocharova_Glazki.exe
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\Bocharova_Glazki.pdb
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.csproj.AssemblyReference.cache
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\MainWindow.g.cs
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\App.g.cs
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki_MarkupCompile.cache
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki_MarkupCompile.lref
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\MainWindow.baml
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.g.resources
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.Properties.Resources.resources
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.csproj.GenerateResource.cache
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.csproj.CoreCompileInputs.cache
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.exe
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.pdb
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\AddEditPage.g.cs
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\EyesPage1.g.cs
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\AddEditPage.baml
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\EyesPage1.baml
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\EntityFramework.dll
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\EntityFramework.SqlServer.dll
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\EntityFramework.xml
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\EntityFramework.SqlServer.xml
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\ru\EntityFramework.resources.dll
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki_Content.g.cs
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\App.baml
+D:\учеба\разработка ПМ\глазки\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.csproj.CopyComplete
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\Bocharova_Glazki.exe.config
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\Bocharova_Glazki.exe
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\Bocharova_Glazki.pdb
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\EntityFramework.dll
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\EntityFramework.SqlServer.dll
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\EntityFramework.xml
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\EntityFramework.SqlServer.xml
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\ru\EntityFramework.resources.dll
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.csproj.AssemblyReference.cache
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\AddEditPage.g.cs
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\EyesPage1.g.cs
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\MainWindow.g.cs
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\App.g.cs
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki_Content.g.cs
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki_MarkupCompile.cache
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki_MarkupCompile.lref
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\App.baml
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\AddEditPage.baml
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\EyesPage1.baml
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\MainWindow.baml
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.g.resources
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.Properties.Resources.resources
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.csproj.GenerateResource.cache
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.csproj.CoreCompileInputs.cache
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.csproj.CopyComplete
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.exe
+D:\учеба\разработка ПМ\глазки\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.pdb
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\Bocharova_Glazki.exe.config
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\Bocharova_Glazki.exe
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\Bocharova_Glazki.pdb
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\EntityFramework.dll
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\EntityFramework.xml
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\ru\EntityFramework.resources.dll
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.csproj.AssemblyReference.cache
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\AddEditPage.g.cs
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\EyesPage1.g.cs
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\MainWindow.g.cs
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\App.g.cs
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki_Content.g.cs
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki_MarkupCompile.cache
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki_MarkupCompile.lref
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\App.baml
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\AddEditPage.baml
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\EyesPage1.baml
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\MainWindow.baml
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.g.resources
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.Properties.Resources.resources
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.csproj.GenerateResource.cache
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.csproj.CoreCompileInputs.cache
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.csproj.CopyComplete
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.exe
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\12 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.pdb
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\Bocharova_Glazki.exe.config
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\Bocharova_Glazki.exe
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\Bocharova_Glazki.pdb
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\EntityFramework.dll
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\EntityFramework.SqlServer.dll
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\EntityFramework.xml
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\EntityFramework.SqlServer.xml
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\ru\EntityFramework.resources.dll
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.csproj.AssemblyReference.cache
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\AddEditPage.g.cs
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\EyesPage1.g.cs
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\MainWindow.g.cs
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\App.g.cs
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki_Content.g.cs
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki_MarkupCompile.cache
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki_MarkupCompile.lref
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\App.baml
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\AddEditPage.baml
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\EyesPage1.baml
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\MainWindow.baml
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.g.resources
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.Properties.Resources.resources
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.csproj.GenerateResource.cache
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.csproj.CoreCompileInputs.cache
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.csproj.CopyComplete
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.exe
+D:\учеба\разработка ПМ\глазки\12 все\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.pdb
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\Bocharova_Glazki.exe.config
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\Bocharova_Glazki.exe
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\Bocharova_Glazki.pdb
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\EntityFramework.dll
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\EntityFramework.SqlServer.dll
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\EntityFramework.xml
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\EntityFramework.SqlServer.xml
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\bin\Debug\ru\EntityFramework.resources.dll
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.csproj.AssemblyReference.cache
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\AddEditPage.g.cs
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\EyesPage1.g.cs
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\MainWindow.g.cs
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\App.g.cs
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki_Content.g.cs
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki_MarkupCompile.cache
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki_MarkupCompile.lref
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\App.baml
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\AddEditPage.baml
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\EyesPage1.baml
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\MainWindow.baml
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.g.resources
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.Properties.Resources.resources
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.csproj.GenerateResource.cache
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.csproj.CoreCompileInputs.cache
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.csproj.CopyComplete
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.exe
+D:\учеба\разработка ПМ\глазки\13 лаба\Bocharova_Glazki\Bocharova_Glazki\obj\Debug\Bocharova_Glazki.pdb
