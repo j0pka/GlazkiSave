@@ -1,0 +1,30 @@
+﻿<Window x:Class="Bocharova_Glazki.PriorityWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bocharova_Glazki"
+        mc:Ignorable="d"
+        Title="PriorityWin" Height="400" Width="800">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Text="Изменить приоритет на " Grid.Row="1" Grid.Column="0" HorizontalAlignment="Right" VerticalAlignment="Center" Width="auto" FontSize="20" Padding="10"/>
+            <TextBox Name="PrioritiEdit" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center" Width="300" FontSize="15" Padding="10" />
+            <Button Content="Изменить" Name="SavePriorityWin" Click="SavePriorityWin_Click" Grid.Row="2" Grid.ColumnSpan="2" HorizontalAlignment="Center" FontSize="20"/>
+            <Button Content="Назад" Name="BtnBackPriorityWin" Click="BtnBackPriorityWin_Click" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Right" FontSize="20"/>
+
+        </Grid>
+
+    </Grid>
+</Window>

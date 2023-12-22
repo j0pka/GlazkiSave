@@ -1,0 +1,121 @@
+﻿<Page x:Class="Bocharova_Glazki.EyesPage1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Bocharova_Glazki"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="EyesPage1" IsVisibleChanged="Page_IsVisibleChanged">
+
+   
+    <Grid>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0 10 0 0">
+            <TextBlock Name="TBCount" FontSize="20" Margin="0 5 0 0" />
+            <TextBlock Name="TBAllRecords" FontSize="20" Margin="0 5 0 0" />
+            <Button Name="LeftDirButton" Content="&lt;" Width="20" Height="20" Click="LeftDirButton_Click" FontSize="15"></Button>
+            <ListBox FontSize="20" Name="PageListBox" MouseUp="PageListBox_MouseUp" HorizontalContentAlignment="Center" >
+                <ListBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel Orientation="Horizontal"/>
+                    </ItemsPanelTemplate>
+                </ListBox.ItemsPanel>
+            </ListBox>
+            <Button Name="RightDirButton" Content="&gt;" Width="20" Height="20" Click="RightDirButton_Click" FontSize="15"></Button>
+           
+        </StackPanel>
+        <Button  Name="Real" Content="Изменить приоритет" Click="Real_Click"  FontSize="15" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Left" Margin="15"/>
+        
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Grid.Row="0" Margin="15 15">
+
+            <TextBox  Name="TBoxSearch" TextChanged="TBoxSearch_TextChanged" Width="300" FontSize="15" Padding="10"  ></TextBox> <!--ПОИСК-->
+
+            <ComboBox MouseEnter="ComboBox_MouseEnter" MouseLeave="ComboBox_MouseLeave" Name="sortComboBox" SelectionChanged="sortComboBox_SelectionChanged" FontSize="15" Width="200" Padding="10" Margin="10 0 0 0">
+                <TextBlock Name="noSort" Selector.IsSelected="True" Text="Сортировка" />
+                <TextBlock>по возр скидки</TextBlock>
+                <TextBlock>по убв скидки</TextBlock>
+                <TextBlock>по возр приоритета</TextBlock>
+                <TextBlock>по убв приоритета</TextBlock>
+                <TextBlock>по возр наименования</TextBlock>
+                <TextBlock>по убв наименования</TextBlock>
+            </ComboBox>
+
+            <ComboBox Width="100" FontSize="15" Name="filterComboBox" Margin="10 0 0 0" Padding="10" SelectionChanged="filterComboBox_SelectionChanged" >
+                <TextBlock>Все</TextBlock>
+                <TextBlock>ЗАО</TextBlock>
+                <TextBlock>МКК</TextBlock>
+                <TextBlock>МФО</TextBlock>
+                <TextBlock>ОАО</TextBlock>
+                <TextBlock>ООО</TextBlock>
+                <TextBlock>ПАО</TextBlock>
+            </ComboBox>
+        </StackPanel>
+
+
+        <ListView Name="EyesListView" Grid.Row="1">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Background="{Binding FontStyle}" Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="4*"></ColumnDefinition>
+                            <ColumnDefinition Width="450"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="50"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Image Width="150" Grid.Column="0" Stretch="Uniform" Grid.RowSpan="4" HorizontalAlignment="Center" Margin="10 0 50 0">
+                            <Image.Source>
+                                <Binding Path="Logo">
+                                    <Binding.TargetNullValue>
+                                        <ImageSource>
+                                            Resources/picture.png
+                                        </ImageSource>
+                                    </Binding.TargetNullValue>
+                                </Binding>
+                            </Image.Source>
+                        </Image>
+
+                        <StackPanel Grid.Column="1" Grid.Row="0" Orientation="Horizontal">
+                            <TextBlock Text="{Binding AgentTypeString, StringFormat={}{0:0} | }" HorizontalAlignment="Left" FontSize="20"/>
+                            <TextBlock  Text="{Binding Title }" HorizontalAlignment="Left" FontSize="20" TextWrapping="Wrap" Margin="5 0 0 0"/>
+                            
+                        </StackPanel>
+                        <StackPanel Grid.Column="1" Grid.Row="1">
+                            <!--<TextBlock Text="{Binding Email, StringFormat= Email: {0} }" FontSize="15" />-->
+                            <TextBlock Text="{Binding Phone, StringFormat= Номер: {0} }" HorizontalAlignment="Left" FontSize="15" />
+                            
+                        </StackPanel>
+
+                        <TextBlock Text="{Binding SaleProductCount, StringFormat={}{0} продаж за год}" Grid.Column="1" Grid.Row="3" HorizontalAlignment="Left" FontSize="15"/>
+                        
+                        <TextBlock Text="{Binding Priority, StringFormat= Приоритетность: {0}}" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Left" FontSize="15"/>
+                        
+                       <TextBlock Text="{Binding Discount, StringFormat={}{0:P0}}" Grid.Column="2" Grid.Row="0" HorizontalAlignment="Right" FontSize="45" />
+
+
+                        <Button Name="EditButton" Content="Редактировать" Click="EditButton_Click" HorizontalAlignment="Right" Margin="5" FontSize="15"  Grid.Column="2" Grid.Row="3" ></Button>
+                        
+
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Button Content="Добавить" Name="AddBtn" Click="AddBtn_Click" FontSize="15"  Grid.Row="0" HorizontalAlignment="Right" Margin="15"></Button>
+        
+      
+
+    </Grid>
+</Page>
